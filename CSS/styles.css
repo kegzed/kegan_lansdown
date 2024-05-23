@@ -1,0 +1,92 @@
+/* Colour Pallete
+
+Dove Gray = #636363
+Di Serria (Orange) = #E0A454
+Danube (Light Blue) = #6FABD0
+Hillary (Beige) = #B4A48C
+*/
+
+/* Global
+------------------------------------------*/
+body {
+    background-color: #636363;
+    background-image: url(../images/);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    color: #6FABD0;
+    font-weight: bold;
+}
+
+h2 {
+    color: #E0A454;
+}
+
+h3{
+    color: #6FABD0;
+}
+
+p {
+    color: #B4A48C;
+}
+
+a{
+    color: #B4A48C;
+}
+
+/* Navbar
+------------------------------------------*/
+nav{
+    background-color: #efac2f;
+    border-bottom: 1px solid #666;
+    width: 20.5%;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li.navbar{
+    display: inline-block;
+    margin-right: -5.5px;
+}
+
+a.navbar {
+    color: #2c3e57;
+    font-weight: bold;
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.navbar:hover {
+    background-color:#2c3e57;
+    color: #efac2f;
+}
+
+ /* Home
+------------------------------------------*/
+
+
+/* Hobbies
+------------------------------------------*/
+
+
+/* Projects
+------------------------------------------*/
+
+
+/* Work Experience
+------------------------------------------*/
+
+/* Education
+------------------------------------------*/
+
+
+/* Footer
+------------------------------------------*/
