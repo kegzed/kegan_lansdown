@@ -167,59 +167,59 @@ a:hover {
 }
 
 .work {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
     background-size: cover;
 }
 
 .education {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
     background-size: cover;
 }
 
 .projects {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
     background-size: cover;
 }
 
 .interests {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
     background-size: cover;
 }
 
 .contact {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
     background-size: cover;
 }
 
 @media screen and (max-width: 1280px) {
     .homepage {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
-        background-size: cover;
+        background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
+    background-size: cover;
     }
 
     .work {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
-        background-size: cover;
+        background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
+    background-size: cover;
     }
 
     .education {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
-        background-size: cover;
+        background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
+    background-size: cover;
     }
     
     .projects {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
-        background-size: cover;
+        background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
+    background-size: cover;
     }
     
     .interests {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
-        background-size: cover;
+        background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
+    background-size: cover;
     }
     
     .contact {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
-        background-size: cover;
+        background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
+    background-size: cover;
     }
 }
 
