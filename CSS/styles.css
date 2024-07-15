@@ -162,7 +162,7 @@ a:hover {
 ------------------------------------------*/
 
 .homepage {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../Images/coin.jpg) no-repeat, url(../Images/coinFlipped.jpg);
     background-size: cover;
 }
 
