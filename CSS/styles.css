@@ -162,63 +162,63 @@ a:hover {
 ------------------------------------------*/
 
 .homepage {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../images/coin.jpg) no-repeat;
     background-size: cover;
 }
 
 .work {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../images/coin.jpg) no-repeat;
     background-size: cover;
 }
 
 .education {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../images/coin.jpg) no-repeat;
     background-size: cover;
 }
 
 .projects {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../images/coin.jpg) no-repeat;
     background-size: cover;
 }
 
 .interests {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../images/coin.jpg) no-repeat;
     background-size: cover;
 }
 
 .contact {
-    background: url(../images/coin.jpg) no-repeat, url(../images/coinFlipped.jpg);
+    background: url(../images/coin.jpg) no-repeat;
     background-size: cover;
 }
 
 @media screen and (max-width: 1280px) {
     .homepage {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
+        background: url(../images/coin.jpg) no-repeat 90%;
         background-size: cover;
     }
 
     .work {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
+        background: url(../images/coin.jpg) no-repeat 90%;
         background-size: cover;
     }
 
     .education {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
+        background: url(../images/coin.jpg) no-repeat 90%;
         background-size: cover;
     }
     
     .projects {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
+        background: url(../images/coin.jpg) no-repeat 90%;
         background-size: cover;
     }
     
     .interests {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
+        background: url(../images/coin.jpg) no-repeat 90%;
         background-size: cover;
     }
     
     .contact {
-        background: url(../images/coin.jpg) no-repeat 90%, url(../images/coinFlipped.jpg) 90%;
+        background: url(../images/coin.jpg) no-repeat 90%;
         background-size: cover;
     }
 }
